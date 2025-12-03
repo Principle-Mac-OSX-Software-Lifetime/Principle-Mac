@@ -9,7 +9,7 @@
 
 <img src="https://cdn.worldvectorlogo.com/logos/principle-app-2.svg" width="200"><br>
 
-<a href="https://software-apps-osx.github.io/.github/principle">
+<a href="https://mac-apps-install.github.io/.github/principle">
   <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
 </a><br>
 
